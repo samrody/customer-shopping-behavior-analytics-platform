@@ -1,7 +1,7 @@
 # customer-shopping-behavior-analytics-platform
 Overview
 
-The Urban Threads Customer Shopping Behavior Analytics Platform is an end-to-end data engineering and business intelligence case study developed by Astrax Analytics Solutions.
+The Urban (Threads) Customer Shopping Behavior Analytics Platform is an end-to-end data engineering and business intelligence case study developed by Astrax Analytics Solutions.
 
 The project demonstrates how raw retail sales data can be transformed into actionable business insights using a modern analytics workflow consisting of Python ETL pipelines, a relational SQL database, analytical SQL queries, and interactive Power BI dashboards.
 
